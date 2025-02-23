@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
+    "100041394069745",
     ""
   ],
   "whiteListMode": {
@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "AMINUL-SORDAR",
-  "AGE": "18",
+  "OWNER": "RAM LUJI",
+  "AGE": "SECRET",
   "GENDER": "MALE",
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "FACEBOOK": "https://www.facebook.com/br4nd.abir.your.next.bf.jan",
+  "nickNameBot": "RAMEN BOT",
+  "FACEBOOK": "100041394069745",
   "prefix": "#",
   "database": {
     "type": "sqlite",
